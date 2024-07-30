@@ -256,7 +256,7 @@ const RegisterForm = ({ user }: {user: User}) => {
                     />
 
                     <CustomFormField
-                        fieldType={FormFieldType.INPUT}
+                        fieldType={FormFieldType.TEXTAREA}
                         control={form.control}
                         name="currentMedication"
                         label="Current Medication(s) (if any)"
@@ -275,7 +275,7 @@ const RegisterForm = ({ user }: {user: User}) => {
                     />
 
                     <CustomFormField
-                        fieldType={FormFieldType.INPUT}
+                        fieldType={FormFieldType.TEXTAREA}
                         control={form.control}
                         name="pastMedicalHistory"
                         label="Past Medical History"
