@@ -33,8 +33,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/AaronJai/healthcare
-cd healthcare
+git clone https://github.com/AaronJai/health_management_dashboard
+cd health_management_dashboard
 ```
 
 **Installation**
